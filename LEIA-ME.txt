@@ -1,0 +1,4 @@
+Rogue Movel - Jogo 2D em Java (Swing)
+Executar (Java 11+), dentro desta pasta:  java Jogo.java
+Controles: setas ou WASD para mover, ENTER reinicia apos o fim de jogo.
+Objetivo: pegue moedas e fuja dos slimes. A cada 5 moedas sobe o nivel e surge mais um inimigo.
