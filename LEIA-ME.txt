@@ -1,4 +1,5 @@
-Rogue Movel - Jogo 2D em Java (Swing)
+Heroi contra o Rei Slime - Jogo 2D em Java (Swing)
 Executar (Java 11+), dentro desta pasta:  java Jogo.java
-Controles: setas ou WASD para mover, ENTER reinicia apos o fim de jogo.
-Objetivo: pegue moedas e fuja dos slimes. A cada 5 moedas sobe o nivel e surge mais um inimigo.
+Controles: setas movem, ESPACO atira, botao "Iniciar jogo"/"Reiniciar" (ou ENTER) comeca a partida.
+Objetivo: derrote os slimes (ajudantes do vilao). A cada 5 abates o nivel sobe.
+No nivel 4 aparece o Rei Slime: acerte 30 tiros nele para vencer. Voce tem 3 vidas.
